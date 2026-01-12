@@ -17,12 +17,15 @@
 - General Manager
 - Operations Director
 - Marketing Director
-
+### KPI:
+- Weather impact on cancellation rate and revenue
+- Lead time against cancellation risk
+- Guest composition and weather preference
+- 
 ### Project Overview
 
 This project combines hotel booking data from Kaggle with historical weather data from Open-Meteo API using AWS services to analyze the impact of weather conditions on hotel cancellations and revenue.
-
-###
+It lets stakeholders run queries on booking and weather data together, so they can spot patterns and make decisions on pricing, staffing, and marketing based on weather forecasts.
 
 ## **Step 1: Create S3 Bucket**
 
