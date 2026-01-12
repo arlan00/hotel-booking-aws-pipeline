@@ -21,7 +21,7 @@
 - Weather impact on cancellation rate and revenue
 - Lead time against cancellation risk
 - Guest composition and weather preference
-- 
+- Seasonal performance with weather patterns
 ### Project Overview
 
 This project combines hotel booking data from Kaggle with historical weather data from Open-Meteo API using AWS services to analyze the impact of weather conditions on hotel cancellations and revenue.
